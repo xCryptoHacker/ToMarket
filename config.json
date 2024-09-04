@@ -1,0 +1,12 @@
+{
+    "interval": 1,
+    "play_game": true,
+    "game_point": {
+        "low": 500,
+        "high": 600
+    },
+    "additional_time": {
+        "min": 60,
+        "max": 120
+    }
+}
