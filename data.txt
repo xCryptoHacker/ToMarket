@@ -1,1 +1,1 @@
-query_id=AAFcPdxUAgAAAFw93FQAsPrz&user=%7B%22id%22%3A5718687068%2C%22first_name%22%3A%22%D0%9A%D1%82%D0%BE%20%D0%BE%D0%BD...%3F%22%2C%22last_name%22%3A%22%22%2C%22username%22%3A%22MrGhostXBOT%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1725466291&hash=042cbfb96be55e2a2b42a705d26c45761c2cd4504e93a8e922b4e60ac43af340
+
